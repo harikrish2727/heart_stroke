@@ -1,2 +1,2 @@
 # heart_stroke
-predicting heart stroke prediction using different methods
+predicting heart stroke using different statistical methods
